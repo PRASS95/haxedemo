@@ -1,0 +1,12 @@
+body 
+{
+   margin:0;
+   font-size:100%
+}
+
+.amazingSquare {
+	width: 200px;
+	height:200px;
+	background-color: #FF00FF;
+	position: absolute;
+}
